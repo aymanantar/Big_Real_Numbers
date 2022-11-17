@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1668276354 source:c:\users\compu city\desktop\bigreal\main.cpp
+	"BigDecimalIntClass.h"
+
+1668275508 c:\users\compu city\desktop\bigreal\bigdecimalintclass.h
+	<iostream>
+	<bits/stdc++.h>
+
